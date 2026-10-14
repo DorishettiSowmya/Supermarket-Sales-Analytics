@@ -24,7 +24,7 @@ It is an educational project and does not represent a specific
 supermarket company's actual performance.
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Supermarket Sales Dashboard](dashboard_screenshot.png)
 
 ## Learning Outcomes
 - Data preparation
